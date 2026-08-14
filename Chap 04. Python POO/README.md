@@ -59,16 +59,10 @@ La **séance 01** est consacrée à une remise à niveau de ces notions avant de
 
 # 💻 Environnement de travail
 
-Le module est conçu pour être réalisé avec :
+Le cours est conçu pour être réalisé avec un environnement de développement moderne accessible directement en ligne.
 
-- **Visual Studio Code (VS Code)** ;
-- **GitHub** ;
-- **GitHub Codespaces** ;
-- **GitHub Classroom**.
-
-Les élèves travaillent directement dans leur propre dépôt GitHub créé à partir de l'assignment fourni par l'enseignant.
-
-Le travail peut ainsi être réalisé directement dans le navigateur sans installation locale complexe.
+Visual Studio Code (VS Code) avec GitHub Codespaces : permet de programmer directement dans le navigateur, sans installation complexe.
+Dans un premier temps, les environnements nécessitant une installation locale sont évités afin que les élèves puissent se concentrer sur l'apprentissage de la programmation.
 
 ---
 
